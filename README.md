@@ -6,7 +6,7 @@ This app is a psychic test game. The user needs to guess what the computer is "g
 ## User Guide
 Here's how it works:
 
-- You have an initial form where you must type in a random letter and then hit the submit button. You have 10 guesses which count down under ```guesses left```. Your guesses are also tracked. 
+- You have an initial form where you must type in a random letter and then hit the submit button. You have 10 guesses which count down under ```Guesses Left``` section. Your wrong guesses are also tracked. 
 
 ![](ss1.png)
 ![](ss3.png)
