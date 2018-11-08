@@ -5,7 +5,7 @@ This app is a psychic test game. The user needs to guess what the computer is "g
 
 ![](ss3.png)
 
-## User Guide
+### User Guide
 Here's how it works:
 
 - You have an initial form where you must type in a random letter and then hit the submit button. You have 10 guesses which count down under ```Guesses Left``` section. Your wrong guesses are also tracked. 
@@ -20,7 +20,7 @@ Here's how it works:
 
 ![](ss5.png)
 
-## Built Utilizing: 
+### Built Utilizing: 
 
 * Bootstrap starter v4 - <https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css> \
 * Javascript 
