@@ -2,6 +2,7 @@
 
 ### Overview
 This app is a psychic test game. The user needs to guess what the computer is "guessing". 
+
 ![](ss3.png)
 
 ## User Guide
