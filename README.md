@@ -23,7 +23,6 @@ Here's how it works:
 ## Built Utilizing: 
 
 * Bootstrap starter v4 - <https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css> \
-* Material Design for Bootstrap 4 - <https://mdbootstrap.com/material-design-for-bootstrap/> \
 * Javascript 
 * Html5
 
